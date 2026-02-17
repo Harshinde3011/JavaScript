@@ -1,4 +1,5 @@
 // this behaves different in strict mode and in non-strict mode
+//Lexical scope means variables are accessible based on where they are defined in the code structure.
 
 //1. this in global space (whatever write outside the block is called global space)
 console.log(this); // this keyword in global space points to global object i,e "window" in browser
